@@ -1,6 +1,6 @@
 class University {
   final String name;
-  final String id;
+  final int id;
 
   University({this.name, this.id});
   factory University.fromJSON(Map<String,dynamic> parsedJson){
@@ -10,4 +10,6 @@ class University {
     );
   }
 }
+
+
 
