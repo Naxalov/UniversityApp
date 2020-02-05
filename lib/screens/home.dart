@@ -75,6 +75,9 @@ class MyList extends StatelessWidget {
       itemBuilder: (BuildContext context, int index) {
         return ListTile(
           title: Text(europeanCountries[index]),
+          leading: Icon(Icons.location_city),
+          trailing: Icon(Icons.keyboard_arrow_right),
+          onTap: (){},
         );
       }, separatorBuilder: (BuildContext context, int index) {
         return Padding(
