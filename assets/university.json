@@ -48,7 +48,7 @@
   },
   {
     "name": "Hanyang University",
-    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "overview": "Founded in 1939, Hanyang University is a for-profit private higher education institution located in the urban setting of the metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution has also branch campuses in the following location(s): Ansan. Officially accredited and/or recognized by the Ministry of Education, Korea, Hanyang University (HYU) is a very large (uniRank enrollment range: 35,000-39,999 students) coeducational higher education institution. Hanyang University (HYU) offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees, master degrees, doctorate degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details. This 80 years old higher-education institution has a selective admission policy based on entrance examinations and students' past academic record and grades. International students are welcome to apply for enrollment.",
     "city": "Seoul",
     "acronym": "HYU",
     "phone": "+82 (2) 880 4447",
@@ -83,6 +83,38 @@
     "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
     "city": "Seoul",
     "acronym": "POSTECH",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Ewha Womans University",
+    "overview": "Established in 1886, Ewha Womans University is a private higher education institution located in the urban setting of the metropolis of Seoul (population range of over 5,000,000 inhabitants). Officially accredited and/or recognized by the Ministry of Education, Korea, Ewha Womans University is a large (uniRank enrollment range: 15,000-19,999 students) women only higher education institution. Ewha Womans University offers courses and programs leading to officially recognized higher education degrees such as bachelor degrees in several areas of study. See the uniRank degree levels and areas of study matrix below for further details.",
+    "city": "Seoul",
+    "acronym": "EWHA",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Kyung Hee University",
+    "overview": "Established in 1949, Kyung Hee University is a non-profit private higher education institution located in the urban setting of the metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution has also branch campuses in the following location(s): Suwon. Officially accredited and/or recognized by the Ministry of Education, Korea, Kyung Hee University (KHU) is a large (uniRank enrollment range: 25,000-29,999 students)",
+    "city": "Seoul",
+    "acronym": "KHU",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Kyungpook National University",
+    "overview": "Established in 1949, Kyung Hee University is a non-profit private higher education institution located in the urban setting of the metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution has also branch campuses in the following location(s): Suwon. Officially accredited and/or recognized by the Ministry of Education, Korea, Kyung Hee University (KHU) is a large (uniRank enrollment range: 25,000-29,999 students)",
+    "city": "Seoul",
+    "acronym": "Kyungpook",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Hankuk University of Foreign Studies",
+    "overview": "Established in 1949, Kyung Hee University is a non-profit private higher education institution located in the urban setting of the metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution has also branch campuses in the following location(s): Suwon. Officially accredited and/or recognized by the Ministry of Education, Korea, Kyung Hee University (KHU) is a large (uniRank enrollment range: 25,000-29,999 students)",
+    "city": "Seoul",
+    "acronym": "HUFS",
     "phone": "+82 (2) 880 4447",
     "id": 0
   }
