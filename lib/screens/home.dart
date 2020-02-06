@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:university_app/screens/detailScreen.dart';
 import 'package:university_app/university.dart';
 
 final europeanCountries = [
@@ -92,6 +93,7 @@ class _HomeState extends State<Home> {
 
   List<University> _university;
   String txt = '123';
+
   @override
   void initState() {
     loadUniversity().then((u) => setState(() {
@@ -113,9 +115,18 @@ class MyList extends StatelessWidget {
       itemBuilder: (BuildContext context, int index) {
         return ListTile(
           title: Text(_listUni[index].name),
-          leading: Icon(Icons.location_city),
+          leading: CircleAvatar(
+            backgroundImage:
+                AssetImage('assets/logo/${_listUni[index].acronym}.png'),
+          ),
           trailing: Icon(Icons.keyboard_arrow_right),
-          onTap: () {},
+          onTap: () {
+            Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (BuildContext context) => DetailScreen(_listUni[index]),
+                ));
+          },
         );
       },
       separatorBuilder: (BuildContext context, int index) {

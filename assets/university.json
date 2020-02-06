@@ -1,10 +1,89 @@
 [
   {
-    "name": "Sejong",
+    "name": "Seoul National University",
+    "overview":"Established in 1946, Seoul National University is a non-profit public higher education institution located in the urban setting of the metropolis of Seoul (population range of over 5,000,000 inhabitants).",
+    "city":"Seoul",
+    "acronym":"SNU",
+    "phone":"+82 (2) 880 4447",
     "id": 0
   },
   {
+    "name": "Korea University",
+    "overview":"Established in 1946, Seoul National University is a non-profit public higher education institution located in the urban setting of the metropolis of Seoul (population range of over 5,000,000 inhabitants).",
+    "city":"Seoul",
+    "acronym":"KOREA",
+    "phone":"+82 (2) 880 4447",
+    "id": 0
+  } ,
+  {
+    "name": "Pusan National University",
+    "overview":"Established in 1946, Pusan National University is a non-profit public higher education institution located in the urban setting of the large city of Busan (population range of 1,000,000-5,000,000 inhabitants).",
+    "city":"Seoul",
+    "acronym":"PUSAN",
+    "phone":"+82 (2) 880 4447",
+    "id": 0
+  } , {
     "name": "KAIST",
-    "id": 1
+    "overview":"Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city":"Seoul",
+    "acronym":"KAIST",
+    "phone":"+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Yonsei University",
+    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city": "Seoul",
+    "acronym": "YONSEI",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Sogang University",
+    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city": "Seoul",
+    "acronym": "SOGANG",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Hanyang University",
+    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city": "Seoul",
+    "acronym": "HYU",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Sungkyunkwan University",
+    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city": "Seoul",
+    "acronym": "SKKU",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Yeungnam University",
+    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city": "Seoul",
+    "acronym": "YU",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Chung-Ang University",
+    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city": "Seoul",
+    "acronym": "CAU",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
+  },
+  {
+    "name": "Pohang University of Science and Technology",
+    "overview": "Founded in 1971, KAIST is a non-profit public higher education institution located in the urban setting of the large city of Daejeon (population range of 1,000,000-5,000,000 inhabitants).",
+    "city": "Seoul",
+    "acronym": "POSTECH",
+    "phone": "+82 (2) 880 4447",
+    "id": 0
   }
 ]
